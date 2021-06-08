@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning multiple programming languages.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through email @ Jonathan.E.Fuentes6@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-fuentes-6013961b/)
 
 <!---
 fuentesjo6/fuentesjo6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
